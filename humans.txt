@@ -10,13 +10,13 @@
 
 # THANKS
 
-<<<<<<< HEAD
+
     <name>
 	Chitra V Kumar . changes made in master before rebase
-=======
+
     Chitra V Kumar
 
->>>>>>> 415d162 (changes made in mybraNCH)
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
