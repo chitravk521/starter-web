@@ -14,9 +14,7 @@
     <name>
 	Chitra V Kumar . changes made in master before rebase
 
-    Chitra V Kumar
-
-
+    
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
