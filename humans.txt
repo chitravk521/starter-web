@@ -4,6 +4,9 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Chitra V Kumar
+	QA II Tester
+	Applying for Devops Engineer lvl I 
 
 # THANKS
 
