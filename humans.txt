@@ -11,8 +11,16 @@ Doing some changes in local.
 
 # THANKS
 
+<<<<<<< HEAD
+=======
+    Chitra V Kumar
+	Inserting conflicts in mybranch.
+>>>>>>> 45573b9 (added conflicts in mybranchq)
+
     <name>
 	Chitra V Kumar . changes made in master before rebase
+
+    
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
