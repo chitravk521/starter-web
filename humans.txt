@@ -8,7 +8,7 @@
 # THANKS
 
     <name>
-
+	Chitra V Kumar . changes made in master before rebase
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
