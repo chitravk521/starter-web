@@ -25,3 +25,4 @@ Doing some changes in local.
 
     HTML5, CSS3
     jQuery, Modernizr
+	AWS Solution Architect developer
