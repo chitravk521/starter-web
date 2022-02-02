@@ -1,2 +1,4 @@
 *.bak
 *.txt.bak
+
+# Adding Git Ignore files in GIT Stash.

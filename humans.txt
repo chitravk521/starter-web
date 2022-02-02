@@ -11,11 +11,11 @@ Doing some changes in local.
 
 # THANKS
 
-<<<<<<< HEAD
-=======
+
+
     Chitra V Kumar
 	Inserting conflicts in mybranch.
->>>>>>> 45573b9 (added conflicts in mybranchq)
+	Adding imprtant notes on GIT stash
 
     <name>
 	Chitra V Kumar . changes made in master before rebase
